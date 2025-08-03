@@ -10,11 +10,13 @@ This repository contains the code and documentation for the **Lending Beta Proje
 - Visualize and interpret beta distributions and their connection to MSA characteristics.
 
 ## 📁 Repository Structure
-├── data/ # Raw and cleaned input datasets (e.g., LEAP, MEAP, CU data, MSA mapping)
-├── notebooks/ # Jupyter notebooks for exploratory analysis and visualization
-├── scripts/ # Core preprocessing and analysis code
-├── output/ # Merged datasets, plots, and final classification results
-├── README.md # Project documentation
+
+- `data/` – Raw and cleaned input datasets (e.g., LEAP, MEAP, CU data, MSA mapping)
+- `notebooks/` – Jupyter notebooks for exploratory analysis and visualization
+- `scripts/` – Core preprocessing and analysis code
+- `output/` – Merged datasets, plots, and final classification results
+- `README.md` – Project documentation
+
 
 
 ## 🧮 Key Concepts
