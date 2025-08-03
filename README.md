@@ -13,8 +13,6 @@ This repository contains the code and documentation for the **Lending Beta Proje
 
 - `data/` – Raw and cleaned input datasets (e.g., LEAP, MEAP, CU data, MSA mapping)
 - `notebooks/` – Jupyter notebooks for exploratory analysis and visualization
-- `scripts/` – Core preprocessing and analysis code
-- `output/` – Merged datasets, plots, and final classification results
 - `README.md` – Project documentation
 
 
